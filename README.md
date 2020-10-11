@@ -1,5 +1,6 @@
-# book
+# Book
 English
+
 This will be my book to show to anyone. Please if you are seeing this, you have  change into the branches to see all projects some of them
 are build on Vanilla JS other with React and other With Angular. Besides maybe could add other technologies that i will learn. or maybe i will practice.
 Greetings and have a great day.
